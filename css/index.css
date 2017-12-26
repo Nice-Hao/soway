@@ -1,0 +1,170 @@
+
+.navbar-default .navbar-brand{
+	font-size: 30px;
+	font-weight: bold;
+	color: #45d3b3;
+}
+.navbar-default .navbar-nav >li>a{
+	font-size: 16px;
+	font-weight: bold;
+	color: #666693;
+	height: 70px;
+}
+.navbar-default .navbar-toggle:hover{
+	background: #45d3b3;
+}
+.navbar{
+	margin-bottom: 0px;
+}
+.navbar-default .navbar-collapse{
+	max-height: 450px;
+	background:rgba(255,255,255,0.5);
+	
+}
+#home{
+	width: 100%;
+	background-image: url(../img/home-bg.jpg);
+	background-size: cover;
+	color: #FFF;
+	text-align: center;
+}
+.mengban{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.4);
+}
+#home h1{
+	font-weight:bold;
+	font-size: 30px;
+	margin: 20px auto;
+	padding: 100px 0px 0px 0px;
+}
+#home p{
+	font-weight:bold;
+	line-height: 20px;
+}
+#home img{
+	margin-top: 30px;
+	display: inline-block;
+	margin-bottom: 40px;
+}
+.KF{
+	width: 100%;
+	margin: 30px auto;
+	text-align: center;
+	line-height: 150px;
+}
+.KF h3{
+	font-weight:bold;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.KF p{
+	line-height: 20px;
+	padding-bottom: 20px;
+}
+.KF img{
+	margin-top:10px ;
+}
+.KF a{
+	text-decoration: none;
+	color: black;
+}
+.KF .col-md-4:hover{
+	background:#F1F1F1;
+}
+#HTML5{
+	width: 100%;
+	margin: 30px auto;
+	line-height: 30px;
+	padding: 70px 20px;
+	background: #D3D3D3;
+}
+#HTML5 h2{
+	font-weight: bold;
+}
+.BTS{
+	width: 100%;
+	margin: 30px auto;
+	line-height: 30px;
+	padding: 70px 20px;
+}
+#ZXK{
+	width: 100%;
+	margin: 30px auto;
+	line-height: 30px;
+	padding: 70px 20px;
+	text-align: center;
+	background: #D3D3D3;
+}
+#ZXK h2{
+	padding-bottom: 70px;
+}
+#ZXK img{
+	width: 100%;
+	border-bottom: 40px;
+}
+#ZXK button{
+	border: 1px solid #45D3B3;
+	margin: 20px 0px;
+	width: 100px;
+	color: #45D3B3;
+	background: #FFF;
+}
+#ZXK .col-md-3 .ZXK1{
+	background: #FFF;
+	margin-bottom: 20px;
+}
+#APP{
+	width: 100%;
+	margin: 30px auto;
+	line-height: 30px;
+	padding: 70px 20px;
+}
+#APP h2{
+	padding-bottom:20px;
+}
+#APP img{
+	width: 100%;
+}
+#APP button{
+	border: none;
+	width: 100px;
+	margin: 10px;
+	background: #41D2B1;
+}
+#LXW{
+	background: url(../img/contact-bg.png) no-repeat;
+	background-size: cover;
+	color: #FFF;
+}
+.meng{
+	background: rgba(0,0,0,0.5);
+}
+#LXW .row{
+	padding-top: 30px;
+}
+#LXW h3{
+	padding-bottom: 15px;
+}
+#LXW p{
+	padding-bottom: 10px;
+}
+#LXW .form-control{
+	margin: 10px;
+}
+#LXW .sub{
+	border: none;
+	background: #41D2B1;
+}
+.footer{
+	height: 50px;
+	background: #272822;
+	text-align: center;
+	color: #FFF;
+	line-height: 50px;
+}
+
+
+
+
